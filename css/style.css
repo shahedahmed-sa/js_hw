@@ -1,0 +1,21 @@
+body {
+	font-family: PTSans-Regular;
+	font-size: 16px;
+	font-weight: 400;
+	color: #909090;
+	padding-top: 109px;
+
+} 
+
+h1{
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+
+}
+
+p{
+	font-size: 16px;
+	font-weight: 400;
+	color: #555555;
+}

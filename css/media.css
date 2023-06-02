@@ -1,0 +1,344 @@
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start*/
+
+
+body{
+    padding-top: 89px;
+}
+
+
+header {
+    padding: 10px 0;
+
+}
+.menu ul li a {
+    font-size: 20px;
+    padding: 10px 0 0 !important;
+    text-align: right;
+    
+}
+/*header end*/
+/*slider start*/
+.slider{
+    padding-bottom: 60px;
+}
+
+.carousel-indicator{
+    bottom: -60px;
+}
+
+.carousel-indicator [data-bs-target]{
+    width: 13px;
+    height: 13px;
+}
+
+.slider-text{
+    margin-top: 0 !important;
+}
+
+.slider-text h1{
+    font-size: 25px;
+
+}
+
+.slider-text h2{
+    margin: 10px 0 !important;
+    font-size: 18px;
+}
+
+.slider-icon{
+    margin-top: 20px !important;
+
+}
+
+.slider-icon ul li{
+    font-size: 35px !important;
+}
+
+.cli{
+    margin: 0 15px !important;
+}
+/*slider end*/
+
+/*feature- start*/
+.feature{
+    padding: 50px 0 40px;
+}
+
+.content-h1{
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.content-paragraph{
+    font-size: 17px;
+    line-height: 25px;
+}
+
+/*2nd row start*/
+.feature-item{
+    margin-top: 30px;
+}
+
+.feature-icon{
+    font-size: 35px;
+
+}
+
+.feature-text{
+    text-align: center;
+}
+
+.feature-text h2{
+    margin: 0 0 4px !important;
+    font-size: 20px;
+    
+}
+
+/*2nd row end*/
+/*feature- end*/
+
+/*contact start*/
+.contact-form{
+    margin: 40px 0 40px;
+    
+}
+.contact-input{
+    height: 40px;
+    padding: 10px 10px;
+    
+}
+
+.btn-submit{
+    height: 40px;
+}
+
+.contact-social ul li{
+    margin-right: 20px !important;
+    font-size: 35px;
+
+}
+/*contact end*/
+
+/*footer start*/
+footer{
+    padding-bottom: 40px;
+}
+
+.foot-item1{
+    text-align: center;
+}
+
+.feature--item-a{
+    margin-top: 40px;
+    text-align: center;
+
+}
+
+/*footer end*/
+
+
+
+
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header start*/
+.menu ul li a {
+    font-size: 20px;
+    padding: 10px 0 0 !important;
+    text-align: right;
+    
+}
+/*header end*/
+/*slider start*/
+.slider{
+    padding-bottom: 60px;
+}
+
+.carousel-indicator{
+    bottom: -55px;
+}
+
+.carousel-indicator [data-bs-target]{
+    width: 13px;
+    height: 13px;
+}
+
+.slider-text{
+    margin-top: 0 !important;
+}
+
+.slider-text h1{
+    font-size: 25px;
+
+}
+
+.slider-text h2{
+    margin: 10px 0 !important;
+    font-size: 18px;
+}
+
+.slider-icon{
+    margin-top: 20px !important;
+
+}
+
+.slider-icon ul li{
+    font-size: 35px !important;
+}
+
+.cli{
+    margin: 0 20px !important;
+}
+/*slider end*/
+
+/*feature- start*/
+.feature{
+    padding: 50px 0 70px;
+}
+
+.content-h1{
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.content-paragraph{
+    font-size: 17px;
+    line-height: 25px;
+}
+
+/*2nd row start*/
+.feature-item{
+    margin-top: 30px;
+}
+
+.feature-icon{
+    font-size: 35px;
+
+}
+
+.feature-text{
+    text-align: center;
+}
+
+.feature-text h2{
+    margin: 0 0 4px !important;
+    font-size: 20px;
+    
+}
+
+/*2nd row end*/
+/*feature- end*/
+
+/*contact start*/
+.contact-form{
+    margin: 35px 0 40px;
+    
+}
+.contact-input{
+    height: 45px;
+    padding: 10px 10px;
+    
+}
+
+.btn-submit{
+    height: 45px;
+}
+
+.contact-social ul li{
+    margin-right: 25px !important;
+    font-size: 40px;
+
+}
+/*contact end*/
+
+/*footer start*/
+footer{
+    padding-bottom: 70px;
+}
+
+.foot-item1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.feature-item-a{
+    text-align: center;
+}
+
+/*footer end*/
+
+
+        
+
+ 
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*/
+.menu ul li a {
+    padding: 10px 0 0 !important;
+    text-align: right;
+}
+/*header end*/
+
+/*feature- start*/
+.feature{
+    padding: 80px 0 100px;
+}
+
+/*2nd row start*/
+.feature-item{
+    margin-top: 50px;
+}
+
+/*2nd row end*/
+
+
+/*feature- end*/
+
+/*contact start*/
+.contact-form{
+    margin: 65px 0 70px;
+    
+}
+
+/*contact end*/
+
+/*footer start*/
+footer{
+    padding-bottom: 100px;
+}
+
+
+/*footer end*/
+
+/*copyright  */
+
+/*copy end*/
+
+
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+
+
+ }
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+
+
+ }
